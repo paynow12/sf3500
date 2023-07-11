@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Jul 2023 21:28:30 at https://paynow3000.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://paynow3000.netlify.app/ -O1 "C:\My Web Sites\kk" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:28:39	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/assets/style.css (from https://paynow3000.netlify.app/)
+21:28:39	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/static/js/pages-componentsA-cell-cell~pages-componentsA-empty-empty~pages-componentsA-loading-page-loading-pag~0aae85b3.25e364e1.js (from https://paynow3000.netlify.app/)
+21:28:39	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/static/js/pages-componentsA-grid-grid~pages-componentsA-overlay-overlay~pages-componentsA-popup-popup~pages-co~04137b12.48223f7f.js (from https://paynow3000.netlify.app/)
+21:28:39	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/static/js/pages-componentsA-button-button~pages-componentsA-empty-empty~pages-componentsA-popup-popup~pages-co~46efb8a8.eafb12cb.js (from https://paynow3000.netlify.app/)
+21:28:39	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/static/js/pages-componentsA-popup-popup~pages-componentsA-repay-upi~pages-componentsA-repay2-result~pages-comp~64781d7d.b3a44da0.js (from https://paynow3000.netlify.app/)
+21:28:39	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/static/js/pages-repay.a0baf0f9.js (from https://paynow3000.netlify.app/)
+21:28:40	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/static/js/chunk-vendors.635eb109.js (from https://paynow3000.netlify.app/)
+21:28:40	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/ssassets/index.e72a409a.js (from https://paynow3000.netlify.app/)
+21:28:40	Error: 	"Not Found" (404) at link https://paynow3000.netlify.app/assets/tlogo.e9040472.png (from https://paynow3000.netlify.app/success.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 16 links scanned, 6 files written (171196 bytes overall) [80768 bytes received at 8076 bytes/sec], 176073 bytes transferred using HTTP compression in 12 files, ratio 27%
+(9 errors, 0 warnings, 0 messages)
